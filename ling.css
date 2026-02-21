@@ -10,7 +10,7 @@ body, head {
 }
 body {
     background-color: #000000e7;
-    background-image: url(/images/wp15186712-laptop-coding-wallpapers.webp);
+    background-image: url(images/wp15186712-laptop-coding-wallpapers.webp);
     background-size: 2000px;
 }
 main {
@@ -35,4 +35,5 @@ main {
     display: flex;
     gap: 50px;
     padding-bottom: 90px;
+
 }
